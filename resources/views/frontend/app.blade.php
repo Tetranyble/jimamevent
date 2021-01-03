@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Playground</title>
 
-    <link rel="stylesheet" href="./css/main.css" />
+    <link rel="stylesheet" href="{{ asset('assets/frontend/css/frontend.css') }}" />
     <!-- ===== BOX ICONS ===== -->
     <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
 </head>
@@ -74,7 +74,7 @@
                     </defs>
                     <g id="Group_70" data-name="Group 70" transform="translate(-568 14.37)">
                         <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(712.968 -14.37)" clip-path="url(#clip-path)">
-                            <image id="pexels-misha-earle-1777843" width="824" height="1235" transform="translate(0.032 -6.63)" xlink:href="./image/wedding1.jpg"/>
+                            <image id="pexels-misha-earle-1777843" width="824" height="1235" transform="translate(0.032 -6.63)" xlink:href="{{ asset('assets/image/wedding1.jpg') }}"/>
                         </g>
                         <path id="Path_201" data-name="Path 201" d="M973.085-984.521c-29.65,13.5-41.682,16.143-69.714,56.759s-32.9,158.084,69.714,241.738,122.49,74.933,188.734,77.5,91.787-35.676,94.053-38.137,7.331-14.829,0-39.367-29.98-51.061-54.392-88.575c-16.063-24.684-15.66-23.978-24.412-50.393-4.145-12.519-6.3-33.253-24.314-67.708C1100.072-993.445,1002.735-998.017,973.085-984.521Z" transform="matrix(0.978, 0.208, -0.208, 0.978, -425.165, 1323.697)" fill="url(#linear-gradient-2)"/>
                     </g>
@@ -324,32 +324,32 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <div class="potfolio-i">
-                        <img src="./image//potfolio/galery6.jpg" alt="" srcset="">
+                        <img src="{{ asset('assets/image/potfolio/gallery1.jpg') }}" alt="" srcset="">
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="potfolio-i">
-                        <img src="./image/potfolio/gallery1.jpg" alt="" srcset="">
+                        <img src="{{ asset('assets/image/potfolio/gallery2.jpg') }}" alt="" srcset="">
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="potfolio-i">
-                        <img src="./image/potfolio/gallery2.jpg" alt="" srcset="">
+                        <img src="{{ asset('assets/image/potfolio/gallery3.jpg') }}" alt="" srcset="">
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="potfolio-i">
-                        <img src="./image/potfolio/gallery5.jpg" alt="" srcset="">
+                        <img src="{{ asset('assets/image/potfolio/gallery4.jpg') }}" alt="" srcset="">
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="potfolio-i">
-                        <img src="./image/potfolio/gallery4.jpg" alt="" srcset="">
+                        <img src="{{ asset('assets/image/potfolio/gallery5.jpg') }}" alt="" srcset="">
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="potfolio-i">
-                        <img src="./image/potfolio/gallery5.jpg" alt="" srcset="">
+                        <img src="{{ asset('assets/image/potfolio/gallery6.jpg') }}" alt="" srcset="">
                     </div>
                 </div>
             </div>
@@ -380,7 +380,7 @@
                             </p>
                         </div>
                         <div class="testimony-user">
-                            <img class="round-user-image responsive-image" src="./image/testimony1.jpg" alt="testimony user">
+                            <img class="round-user-image responsive-image" src="{{ asset('assets/image/testimony1.jpg') }}" alt="testimony user">
                             <div class="testimony-user-detail">
                                 <h4 class="capitalize">Dolores Red</h4>
                                 <h4 class="capitalize"> Php Developer</h4>
@@ -401,7 +401,7 @@
                             </p>
                         </div>
                         <div class="testimony-user">
-                            <img class="round-user-image responsive-image" src="./image/testimony1.jpg" alt="testimony user">
+                            <img class="round-user-image responsive-image" src="{{ asset('assets/image/testimony1.jpg') }}" alt="testimony user">
                             <div class="testimony-user-detail">
                                 <h4 class="capitalize">Dolores Red</h4>
                                 <h4 class="capitalize"> Php Developer</h4>
@@ -422,7 +422,7 @@
                             </p>
                         </div>
                         <div class="testimony-user">
-                            <img class="round-user-image responsive-image" src="./image/testimony1.jpg" alt="testimony user">
+                            <img class="round-user-image responsive-image" src="{{ asset('assets/image/testimony1.jpg') }}" alt="testimony user">
                             <div class="testimony-user-detail">
                                 <h4 class="capitalize">Dolores Red</h4>
                                 <h4 class="capitalize"> Php Developer</h4>
@@ -546,7 +546,7 @@
         </section>
     </footer>
 </main>
-<script src="./js/main.js"></script>
+<script src="{{ asset('assets/frontend/js/frontend.js') }}"></script>
 </body>
 
 </html>
