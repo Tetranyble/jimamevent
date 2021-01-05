@@ -12,7 +12,7 @@
 </head>
 
 <body>
-  <!-- <header class="header">
+  <header class="header">
     <nav class="nav container">
       <div class="logo">
         <a href="#" class="nav__logo">Jimam</a>
@@ -22,12 +22,12 @@
           <i class="bx bx-x"></i>
         </div>
         <ul class="nav__list">
-          <li class="nav__item"><a href="#home" class="nav__link active">Home</a></li>
-          <li class="nav__item"><a href="#featured" class="nav__link">Explore</a></li>
-          <li class="nav__item"><a href="#women" class="nav__link">Packages</a></li>
-          <li class="nav__item"><a href="#new" class="nav__link">Shop</a></li>
-          <li class="nav__item"><a href="#new" class="nav__link">About Us</a></li>
-          <li class="nav__item"><a href="#" class="nav__link">Contact Us</a></li>
+        <li class="nav__item"><a href="#home" class="nav__link active">Home</a></li>
+          <li class="nav__item"><a href="#explore" class="nav__link">Explore</a></li>
+          <li class="nav__item"><a href="#packages" class="nav__link">Packages</a></li>
+          <li class="nav__item"><a href="#shop" class="nav__link">Shop</a></li>
+          <!-- <li class="nav__item"><a href="#About_us" class="nav__link">About Us</a></li>
+          <li class="nav__item"><a href="#conatct_us" class="nav__link">Contact Us</a></li> -->
         </ul>
       </div>
       <div class="navigation__action">
@@ -41,7 +41,7 @@
 
     </nav>
     </div>
-  </header> -->
+  </header>
   <main style="overflow: hidden;">
  <section class=" mt-56 welcome-banner" >
    <div class="container">
