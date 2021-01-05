@@ -59,7 +59,7 @@
             </div>
         </div>
        </div>
-       <div class="col-lg-6 col-md-6">
+
         <svg class="svg" xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink"  viewBox="0 0 961.5 1156.37" preserveAspectRatio=>
           <defs>
             <linearGradient id="linear-gradient" x1="0.5" x2="0.76" y2="1" gradientUnits="objectBoundingBox">
@@ -81,7 +81,7 @@
             <path id="Path_201" data-name="Path 201" d="M973.085-984.521c-29.65,13.5-41.682,16.143-69.714,56.759s-32.9,158.084,69.714,241.738,122.49,74.933,188.734,77.5,91.787-35.676,94.053-38.137,7.331-14.829,0-39.367-29.98-51.061-54.392-88.575c-16.063-24.684-15.66-23.978-24.412-50.393-4.145-12.519-6.3-33.253-24.314-67.708C1100.072-993.445,1002.735-998.017,973.085-984.521Z" transform="matrix(0.978, 0.208, -0.208, 0.978, -425.165, 1323.697)" fill="url(#linear-gradient-2)"/>
           </g>
         </svg>
-       </div>
+
      </div>
    </div>
  </section>
