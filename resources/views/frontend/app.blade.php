@@ -250,7 +250,7 @@
                 <span class="badge border badge-pill">30</span>
               </div>
               <div class="section-center mt-10">
-                <a href="#" class="btn btn-primary-outline uppercase">Order Now</a>
+                <a href="#" class="btn btn-primary-outline uppercase border-radius-9">Order Now</a>
               </div>
             </div>
           </div>
@@ -278,7 +278,7 @@
                 <span class="badge border badge-pill">30</span>
               </div>
               <div class="section-center mt-10">
-                <a href="#" class="btn btn-primary-outline uppercase">Order Now</a>
+                <a href="#" class="btn btn-primary-outline uppercase border-radius-9">Order Now</a>
               </div>
             </div>
           </div>
@@ -306,7 +306,7 @@
                 <span class="badge border badge-pill">30</span>
               </div>
               <div class="section-center mt-10">
-                <a href="#" class="btn btn-primary-outline uppercase">Order Now</a>
+                <a href="#" class="btn btn-primary-outline uppercase border-radius-9">Order Now</a>
               </div>
             </div>
           </div>
